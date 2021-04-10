@@ -1,0 +1,10 @@
+﻿2021-03-25T12:30:57.0476829+00:00;Thread#1;Info;Reading test run result from Json file "C:\Users\tolae\AppData\Local\Temp\9817a1b2-b3f1-4c2f-a991-b57b20527a8d".
+2021-03-25T12:30:57.0501165+00:00;Thread#1;Info;Successfully read test run result from Json file "C:\Users\tolae\AppData\Local\Temp\9817a1b2-b3f1-4c2f-a991-b57b20527a8d"
+2021-03-25T12:30:57.0501165+00:00;Thread#1;Info;Deserializing test run result
+2021-03-25T12:30:57.6143392+00:00;Thread#1;Info;Successfully deserialized test run result
+2021-03-25T12:30:57.6143392+00:00;Thread#1;Info;Loading test run result
+2021-03-25T12:30:57.6428122+00:00;Thread#1;Info;Successfully loaded test run result
+2021-03-25T12:30:57.6535241+00:00;Thread#1;Info;creating 1 report(s)
+2021-03-25T12:30:57.6535241+00:00;Thread#1;Info;generate Report using template ReportTemplate.cshtml
+2021-03-25T12:30:58.7024159+00:00;Thread#1;Info;Finished generating reports.
+========== End of log file ==========
