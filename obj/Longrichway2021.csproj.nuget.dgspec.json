@@ -50,7 +50,7 @@
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.5.0, )"
+              "version": "[16.9.4, )"
             },
             "NUnit": {
               "target": "Package",
@@ -66,11 +66,11 @@
             },
             "Selenium.WebDriver.ChromeDriver": {
               "target": "Package",
-              "version": "[88.0.4324.9600, )"
+              "version": "[90.0.4430.2400, )"
             },
             "SpecFlow.Plus.LivingDocPlugin": {
               "target": "Package",
-              "version": "[3.7.10, )"
+              "version": "[3.7.141, )"
             },
             "SpecRun.SpecFlow": {
               "target": "Package",

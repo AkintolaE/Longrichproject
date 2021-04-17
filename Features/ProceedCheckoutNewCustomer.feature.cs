@@ -131,7 +131,7 @@ this.ScenarioInitialize(scenarioInfo);
  testRunner.And("I enter my Last Name \"Jones\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 18
- testRunner.And("I enter my EmailAddress \"atolayomi+70@gmail.com\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+ testRunner.And("I enter my EmailAddress \"atolayomi+71@gmail.com\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 19
  testRunner.And("I enter my PhoneNumber \"01234848993\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");

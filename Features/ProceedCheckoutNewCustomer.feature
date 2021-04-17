@@ -15,7 +15,7 @@ Scenario:Checkout as a new customer
 	And click on New Customer? Quick Registration Button
 	And I enter my First Name "Jessee"  
 	And I enter my Last Name "Jones"
-	And I enter my EmailAddress "atolayomi+70@gmail.com"
+	And I enter my EmailAddress "atolayomi+71@gmail.com"
 	And I enter my PhoneNumber "01234848993"
 	And I enter my Password "donkey"
 	And I enter my ConfirmPassword "donkey"
